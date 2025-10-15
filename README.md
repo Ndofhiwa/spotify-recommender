@@ -164,9 +164,7 @@ Contribution Guidelines
 
     Open a Pull Request
 
-📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 🙏 Acknowledgments
 
     Spotify for providing the comprehensive Web API
@@ -175,7 +173,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
     Machine learning community for open-source algorithms and tools
 
-<div align="center">
+
 
 Enjoy discovering new music! 🎧
-</div> ```
+
