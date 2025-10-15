@@ -1,12 +1,6 @@
 markdown
 # AI-Powered Spotify Music Recommendation System
 
-**Author:** TSHIFHIWA AUSTIN  
-**Date:** December 2023  
-**Institution:** Personal Project  
-
-*Documentation formatted in Arial 12pt with 1.5 line spacing*
-
 ---
 
 ## Abstract
