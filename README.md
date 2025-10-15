@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spotify Music Recommender System 🎵
 
 A machine learning-powered music recommendation system that suggests songs based on audio features and user preferences using Spotify's Web API.
@@ -569,4 +568,4 @@ The Spotify Music Recommender successfully demonstrates the implementation of a 
 
 
 
->>>>>>> 22938ebec1077f619d5576d761094ff2efb7663f
+
