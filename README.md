@@ -44,13 +44,13 @@ pip install -r requirements.txt
 
 4. Set up Spotify API credentials
 
-        Go to Spotify Developer Dashboard
+    Go to Spotify Developer Dashboard
 
-        Create a new app and get your Client ID and Client Secret
+    Create a new app and get your Client ID and Client Secret
 
-        Add redirect URI: http://localhost:8888/callback or http://127.0.0.1:8501/callback
+    Add redirect URI: http://localhost:8888/callback or http://127.0.0.1:8501/callback
 
-        Create a .env file in the project root:
+    Create a .env file in the project root:
 
 SPOTIPY_CLIENT_ID=your_client_id_here
 SPOTIPY_CLIENT_SECRET=your_client_secret_here
@@ -567,8 +567,6 @@ The Spotify Music Recommender successfully demonstrates the implementation of a 
 
 ---
 
-Appendix A: Installation and Setup
-Appendix B: API Configuration Guide
-Appendix C: User Manual
+
 
 >>>>>>> 22938ebec1077f619d5576d761094ff2efb7663f
